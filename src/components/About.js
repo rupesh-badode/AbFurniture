@@ -15,7 +15,7 @@ function About() {
           {/* Image */}
           <div className="col-md-6 mb-4 mb-md-0" data-aos="fade-right">
             <img
-              src="Iprofile.jpg"
+              src="Iprofile.JPG"
               alt="About us"
               className="img-fluid rounded-5 shadow"
             />

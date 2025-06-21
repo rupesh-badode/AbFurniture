@@ -57,7 +57,7 @@ const Contact = () => {
           <div className="col-md-6 text-center mt-4 mt-md-0" data-aos="fade-left">
             <h5>Connect with Me</h5>
             <div className="d-flex justify-content-center gap-4 mt-3">
-              <a href="mailto:abfurniture236@gmail.com" className="text-dark" target="abfurniture236@gmail.com" rel="noopener noreferrer">
+              <a href="mailto:abfurniture236@gmail.com" className="text-primary" target="abfurniture236@gmail.com" rel="noopener noreferrer">
                 <i className="fas fa-envelope fa-2x"></i>
               </a>
               <a href="https://wa.me/917489709546" className="text-success" target="_blank" rel="noopener noreferrer">

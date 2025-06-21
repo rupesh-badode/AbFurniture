@@ -32,7 +32,7 @@ export default  function Footer() {
           <div className="col-md-4 mb-4">
             <h6 className="fw-bold">Contact Us</h6>
             <p href='mailto:abfuriture236@gmail.com'>Email: abfuriture236@gmail.com</p>
-            <p>Phone:+91 7489709546</p>
+            <a href='teleto:+9174809546'>Phone:+91 7489709546</a>
             <div>
               <a href="" className="text-white me-3"><i className="fab fa-facebook"></i></a>
               <a href="https://www.instagram.com/ashokbarwalbaoddh/" className="text-white me-3"><i className="fab fa-instagram"></i></a>
